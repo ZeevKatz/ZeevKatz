@@ -4,7 +4,7 @@
   
 
 <br/>  
-<iframe src="https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true"/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeev&show_icons=true&count_private=true" align="center" /></div>  
 <br/>  
 
 
