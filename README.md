@@ -4,9 +4,9 @@
   
 
 <br/>  
-
+<div align="center">  
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true)  
-
+</div>
 <br/>  
 
 
