@@ -9,7 +9,7 @@
 
 <div align="center"><h3>My skills set</h3></div>
 <div align="center">  
-<img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />      
+<img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
 <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="D3.js" height="50" />  
 <img style="margin: 20px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="50" />  
