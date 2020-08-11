@@ -2,6 +2,10 @@
 
 ### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
 
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true" align="center" /></div>  
+<br/>  
+
 <div align="center"><h2>My skills set</h2></div>
 <div align="center">  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
@@ -41,9 +45,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
 
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true" align="center" /></div>  
-<br/>  
+<br/>
 
 <div align="center">
 <a href="https://github.com/zeevkatz" target="_blank">
