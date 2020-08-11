@@ -10,7 +10,6 @@
 <br/>  
 
 
-
 ### My skills set  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
