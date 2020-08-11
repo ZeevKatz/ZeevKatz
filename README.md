@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
   
 
