@@ -6,13 +6,13 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
 
-### <div align="center">Blog posts</div>
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Subscribing Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/@zeevkatz/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-### <div align="center">My skills set</div>
+### My skills set
 <div align="center">  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
 &nbsp;&nbsp;
