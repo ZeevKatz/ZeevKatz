@@ -5,6 +5,9 @@
 
 ### 📊 This week I worked on
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 📕 Latest blog posts
