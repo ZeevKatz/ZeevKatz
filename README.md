@@ -12,6 +12,10 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
+📊 **This week I worked on**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ✨ My skills set
 <div>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
