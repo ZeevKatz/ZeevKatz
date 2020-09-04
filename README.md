@@ -14,6 +14,76 @@
 
 ### 📊 This week I worked on
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,443 Contributions in the Year 2020
+ > 
+> 📦 11.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories
+ > 
+> 🔑 5 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    95 commits     █████░░░░░░░░░░░░░░░░░░░░   23.11% 
+🌆 Daytime    174 commits    ██████████░░░░░░░░░░░░░░░   42.34% 
+🌃 Evening    132 commits    ████████░░░░░░░░░░░░░░░░░   32.12% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Tuesday      89 commits     █████░░░░░░░░░░░░░░░░░░░░   21.65% 
+Wednesday    87 commits     █████░░░░░░░░░░░░░░░░░░░░   21.17% 
+Thursday     100 commits    ██████░░░░░░░░░░░░░░░░░░░   24.33% 
+Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
+Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Sunday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jerusalem
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               7 repos             ██████████████████████░░░   87.5% 
+JavaScript               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/ZeevKatz/ZeevKatz/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### ✨ My skills set
