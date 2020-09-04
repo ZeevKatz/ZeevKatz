@@ -1,12 +1,17 @@
 <br/>  
 
 ### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
+<br/>
 
-<br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zeevkatz&show_icons=true&count_private=true" align="center" /></div>  
-<br/>  
+<br/>
 
-<div align="center"><h2>My skills set</h2></div>
+### <div align="center">Blog posts</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br/>
+
+### <div align="center">My skills set</div>
 <div align="center">  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
 &nbsp;&nbsp;
@@ -54,7 +59,7 @@
 <a href="https://linkedin.com/in/zeev-katz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/zeevkatz" target="_blank">
+<a href="https://medium.com/@zeevkatz" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
