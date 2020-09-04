@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-📊 **This week I worked on**
+### 📊 This week I worked on
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
