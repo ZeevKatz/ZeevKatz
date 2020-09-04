@@ -3,20 +3,20 @@
 ### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
 <br/>
 
-### 📊 This week I worked on
+📊 **This week I worked on**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### 📕 Latest blog posts
+📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
 - [Subscribing Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/@zeevkatz/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-<div>
+<div align="center">
   <a href="https://github.com/zeevkatz" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
