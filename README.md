@@ -3,7 +3,7 @@
 ### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
 <br/>
 
-📊 **This week I worked on**
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
