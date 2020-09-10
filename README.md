@@ -25,7 +25,6 @@ LESS         4 mins          ░░░░░░░░░░░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 - [Subscribing Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/@zeevkatz/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
 <!-- BLOG-POST-LIST:END -->
-<br/>
 
 <a href="https://linkedin.com/in/zeev-katz" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
