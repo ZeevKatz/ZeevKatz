@@ -1,4 +1,8 @@
-### Hi! I'm Zeev, a Senior Frontend Developer 👨‍💻 
+<h2>
+  Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  <br/>
+  I'm Zeev, a Senior Frontend Developer 👨‍💻
+</h2>
 - 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
 - 🌱 I'm currently developing a new Angular library 
 - 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
