@@ -4,6 +4,8 @@
 
 **I'm Zeev, a Senior Frontend Developer** 👨‍💻
 
+<br/>
+
 - 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
 - 🌱 I'm currently developing a new Angular library 
 - 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
