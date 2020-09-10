@@ -1,6 +1,7 @@
 <h3>
   Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 </h3>
+
 **I'm Zeev, a Senior Frontend Developer** 👨‍💻
 
 - 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
