@@ -1,7 +1,13 @@
 <br/>  
 
-### <div align="center">I'm Zeev, a frontend developer 👨‍💻 working at [proteanTecs](https://www.proteantecs.com) since 2017 🚀</div>  
+### Hi! I'm Zeev, a Senior Frontend Developer 👨‍💻 
 <br/>
+
+- 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
+- 🌱 I'm currently developing a new Angular library 
+- 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
+- ⚡ Owner and leader of @ngze
+- 📫 How to reach me: [@katz_zeev](https://twitter.com/katz_zeev)
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
