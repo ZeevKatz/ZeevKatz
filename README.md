@@ -7,10 +7,10 @@
 <br/>
 
 - 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
-- 🚀 [@ngze](https://github.com/ngze) owner and leader
-- ❤️ [@fordevs](https://github.com/fordevs) contributor
 - 🌱 I'm currently developing a new Angular library 
 - 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
+- 🚀 [@ngze](https://github.com/ngze) owner and leader
+- ❤️ [@fordevs](https://github.com/fordevs) contributor
 - 📫 How to reach me: [@katz_zeev](https://twitter.com/katz_zeev)
 
 <br/>
