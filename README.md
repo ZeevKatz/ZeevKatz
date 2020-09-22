@@ -6,12 +6,14 @@
 
 <br/>
 
-- 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
-- 🌱 I'm currently developing a new Angular library 
-- 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
-- 🚀 [@ngze](https://github.com/ngze) owner and leader
-- ❤️ [@fordevs](https://github.com/fordevs) contributor
-- 📫 How to reach me: [@katz_zeev](https://twitter.com/katz_zeev)
+<ul>
+  <li>🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)</li>
+  <li>🌱 I'm currently developing a new Angular library</li>
+  <li>💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS</li>
+  <li>🚀 [@ngze](https://github.com/ngze) owner and leader</li>
+  <li>❤️ [@fordevs](https://github.com/fordevs) contributor</li>
+  <li>📫 How to reach me: [@Zeev_Katz](https://twitter.com/Zeev_Katz)</li>
+</ul>
 
 <br/>
 
@@ -41,4 +43,8 @@ SCSS         3 mins          ░░░░░░░░░░░░░░░░░
 &nbsp;
 <a href="https://medium.com/@zeevkatz" target="_blank">
   <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a>
+&nbsp;
+<a href="https://twitter.com/Zeev_Katz" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%23292929.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
