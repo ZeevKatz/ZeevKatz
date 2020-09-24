@@ -10,7 +10,6 @@
 - 🌱 I'm currently developing a new Angular library
 - 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
 - 🚀 [@ngze](https://github.com/ngze) owner and leader
-- ❤️ [@fordevs](https://github.com/fordevs) contributor
 - 📫 How to reach me: [@Zeev_Katz](https://twitter.com/Zeev_Katz)
 
 <br/>
