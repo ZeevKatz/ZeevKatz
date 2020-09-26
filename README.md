@@ -1,5 +1,5 @@
 <h3>
-  Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
 **I'm Zeev, a Senior Frontend Developer** 👨‍💻
@@ -7,7 +7,7 @@
 <br/>
 
 - 🔭 I’m currently working at [proteanTecs](https://www.proteantecs.com)
-- 🌱 I'm currently developing a new Angular library
+- 🌱 I'm currently developing a new <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="25px"> library
 - 💬 Ask me about anything related to TypeScript/JavaScript/Java or Angular/RxJS/NestJS
 - 🚀 [@ngze](https://github.com/ngze) owner and leader
 - 📫 How to reach me: [@Zeev_Katz](https://twitter.com/Zeev_Katz)
