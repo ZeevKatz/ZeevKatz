@@ -29,7 +29,7 @@ JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [Subscribing Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/@zeevkatz/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
+- [Subscribing Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/swlh/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
