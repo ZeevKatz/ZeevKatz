@@ -29,8 +29,8 @@ LESS         4 mins          ▒░░░░░░░░░░░░░░░░
 
 📕 **Latest blog posts**
 <!-- BLOG-POST-LIST:START -->
-- [Super-Useful Git Aliases That Will Speed Up Your Coding](https://medium.com/better-programming/super-useful-git-aliases-that-will-speed-up-your-coding-6c883c65b6f6?source=rss-7a220ee6b5f1------2)
-- [Subscribing to Observables in Ongoing Angular Lifecycle Hooks](https://medium.com/better-programming/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
+- [Super-Useful Git Aliases That Will Speed Up Your Coding](https://betterprogramming.pub/super-useful-git-aliases-that-will-speed-up-your-coding-6c883c65b6f6?source=rss-7a220ee6b5f1------2)
+- [Subscribing to Observables in Ongoing Angular Lifecycle Hooks](https://betterprogramming.pub/subscribing-observables-in-ongoing-angular-lifecycle-hooks-473224afda?source=rss-7a220ee6b5f1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
