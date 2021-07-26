@@ -2,7 +2,7 @@
   Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
-**I'm Zeev, a Senior Frontend Developer** 👨‍💻
+**I'm Zeev, a Frontend Leader** 👨‍💻
 
 <br/>
 
