@@ -2,7 +2,7 @@
   Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
-**I'm Zeev, a Frontend Leader** 👨‍💻
+**I'm Zeev, a Frontend Tech Lead and Angular Specialist** 👨‍💻
 
 <br/>
 
@@ -11,17 +11,6 @@
 - 💬 Ask me about anything related to **TypeScript**/**JavaScript**/**Java** or **Angular**/**RxJS**/**NestJS**
 - 🚀 **[@ngze](https://github.com/ngze)** owner and leader
 - 📫 How to reach me: **[@Zeev_Katz](https://twitter.com/Zeev_Katz)**
-
-<br/>
-
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Java         23 mins         ███████████▓░░░░░░░░░░░░░   46.40 % 
-TypeScript   18 mins         █████████▒░░░░░░░░░░░░░░░   37.42 % 
-JSON         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-```
-<!--END_SECTION:waka-->
 
 <br/>
 
