@@ -29,7 +29,3 @@
 <a href="https://medium.com/@zeevkatz" target="_blank">
   <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-&nbsp;
-<a href="https://twitter.com/Zeev_Katz" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%23292929.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
